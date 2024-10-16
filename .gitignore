@@ -1,15 +1,4 @@
-﻿# Node modules
-/frontend/node_modules
-
-# Python cache
-/data-analysis/__pycache__/
-/data-analysis/*.pyc
-
-# Go binary
-/api/*.exe
-/api/air
-
-# Docker
-**/Dockerfile
-docker-compose.yml
-
+.env
+# .gitignore
+db_data/
+app/main
